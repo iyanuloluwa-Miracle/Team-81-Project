@@ -8,11 +8,6 @@ A platform that helps users compare the content of excel files.
 Excel_Comp
 
 
-
-
-
-
-
 ## Documentation
 
 - To find out more, check out the user research and [documentation](https://docs.google.com/document/d/167L2Gr0WqPN1CxeItw4Dtt5RJrUHThQhzYnwR8fOZL4/edit?usp=sharing) or click [here](https://www.figma.com/file/Vvn2EkSB7muF7xIkZR8sco/Untitled?node-id=0%3A108&t=HyAF89q6UFqSeDv2-0) for a more visual demonstration and a view of the user flow.
