@@ -10,7 +10,7 @@ Excel_Comp
 
 ## Documentation
 
-- To find out more, check out the user research and [documentation](https://docs.google.com/document/d/167L2Gr0WqPN1CxeItw4Dtt5RJrUHThQhzYnwR8fOZL4/edit?usp=sharing) or click [here](https://www.figma.com/file/Vvn2EkSB7muF7xIkZR8sco/Untitled?node-id=0%3A108&t=HyAF89q6UFqSeDv2-0) for a more visual demonstration and a view of the user flow.
+- To find out more, check out the user research and [documentation](https://docs.google.com/document/d/167L2Gr0WqPN1CxeItw4Dtt5RJrUHThQhzYnwR8fOZL4/edit?usp=sharing) or click [here](https://www.figma.com/file/Vvn2EkSB7muF7xIkZR8sco/Untitled?node-id=0%3A108&t=HyAF89q6UFqSeDv2-0) for a more visual demonstration and view of the user flow.
 - To view the mood boards click [here](https://www.figma.com/file/98h7suM7wfURAnfceLHGhP/Moodboards?node-id=0%3A1&t=XU2oA9btKkVKzH67-1)
 - To explore the data schema click [here](https://drawsql.app/teams/biscode/diagrams/zuri-data-schema)
 
