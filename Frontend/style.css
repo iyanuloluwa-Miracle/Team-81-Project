@@ -3,10 +3,32 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+.logo-sec{
+    padding-top: 20px;
+}
+.logo-image{
+    padding-top: 10px;
+}
 .my-nav{
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-around;
+}
+.nav-sect a,li{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+#navsect{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     justify-content: center;
+}
+.about-1{
+    padding-left: 40px;
+    padding-top: 10px;
+    
+
 }
